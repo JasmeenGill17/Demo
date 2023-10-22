@@ -1,1 +1,1 @@
-This is my training report of react JS and angular which was made after semester 4
+This is my training report 
